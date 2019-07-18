@@ -15,12 +15,12 @@ remote_theme             : "mmistakes/minimal-mistakes@4.16.4"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Blog"
-title_separator          : "-"
+title_separator          : "Github blog by mistakes"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jonghyun Kim"
-description              : "Github blog by mistake"
+description              : # "Github blog by mistake"
 url                      : "https://jjhkiim.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonghyun Kim"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "fas fa-user-circle" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student at Yonsei University."
   location         : "Seoul, South Korea"
   email            : "jonghyun.kim@yonsei.ac.kr"
