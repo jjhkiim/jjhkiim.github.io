@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.16.4"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-US"
 title                    : "Blog"
 title_separator          : "Github blog by mistakes"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonghyun Kim"
-  avatar           : "fas fa-user-circle" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student at Yonsei University."
   location         : "Seoul, South Korea"
   email            : "jonghyun.kim@yonsei.ac.kr"
