@@ -111,17 +111,17 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Phd Student at Yonsei University."
   location         : "Seoul, South Korea"
-  email            :
+  email            : "jonghyun.kim@yonsei.ac.kr"
   links:
     - label: "Email"
-      icon: "jonghyun.kim@yonsei.ac.kr"
-      url: mailto:jonghyun.kim@yonsei.ac.kr
+      icon: "fas fa-envelope-open-text"
+      # url: mailto:jonghyun.kim@yonsei.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/jjhkiim/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
