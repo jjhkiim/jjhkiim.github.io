@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "jonghyun.kim@yonsei.ac.kr"
-      # url: mailto:your.name@email.com
+      url: mailto:jonghyun.kim@yonsei.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
