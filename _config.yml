@@ -140,10 +140,10 @@ footer:
       url: "https://linkedin.com/in/jjhkiim/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://www.facebook.com/jjhkiim"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://www.facebook.com/jjhkiim"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/jjhkiim/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
