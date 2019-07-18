@@ -107,14 +107,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jonghyun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Phd Student at Yonsei University."
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "jonghyun.kim@yonsei.ac.kr"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
