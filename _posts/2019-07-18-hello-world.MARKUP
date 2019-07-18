@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Hello World"
+title: "Hello World"
+cagegories: [blog]
+tags: [markdown]
 ---
 
 # Welcome
