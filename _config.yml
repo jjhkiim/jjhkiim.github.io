@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog"
-title_separator          : "Github blog by mistakes"
+title                    : "Jonghyun's GitHub Pages"
+title_separator          : 
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jonghyun Kim"
 description              : # "Github blog by mistake"
