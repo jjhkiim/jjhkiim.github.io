@@ -121,7 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      # url: "https://linkedin.com/in/jjhkiim/"
+      url: "https://linkedin.com/in/jjhkiim/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/jjhkiim/"
 
 # Site Footer
 footer:
