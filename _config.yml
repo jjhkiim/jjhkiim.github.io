@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonghyun Kim"
-  avatar           : "/assets/images/untitled.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student at Yonsei University"
   location         : "Seoul, South Korea"
   email            : "jonghyun.kim@yonsei.ac.kr"
