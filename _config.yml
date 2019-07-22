@@ -118,6 +118,7 @@ author:
       # url: mailto:jonghyun.kim@yonsei.ac.kr
     - label: "Website"
       icon: "fas fa-fw fa-link"
+
       # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
